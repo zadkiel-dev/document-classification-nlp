@@ -60,6 +60,11 @@ To understand *what* the model learned, we can visualize the high-dimensional em
 ![3D t-SNE Visualization of Embeddings](images/embd_visual_1.png)
 ![3D t-SNE Visualization of Embeddings](images/embd_visual_2.png)
 
+![Test Articles](images/articles.png)
+![Test Articles Result](images/article_clf_results.png)
+
+![Articles Result](images/ex_clf_result.png)
+
 ---
 
 ## Directory Structure
